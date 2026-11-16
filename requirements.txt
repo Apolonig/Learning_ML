@@ -1,5 +1,6 @@
 ipykernel
 jupyterlab
+scikit-learn
 -r libraries/learn_numpy/requirements.txt
 -r libraries/learn_pandas/requirements.txt
 -r libraries/learn_matplotlib/requirements.txt
