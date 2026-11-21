@@ -1,0 +1,9 @@
+{
+  "agentSessionsSync.agents.codex.enabled": true,
+  "agentSessionsSync.agents.claude.enabled": false,
+  "agentSessionsSync.agents.cursor.enabled": false,
+  "agentSessionsSync.autoSync": true,
+  "agentSessionsSync.pollIntervalMinutes": 5,
+  "agentSessionsSync.freshMinutes": 5,
+  "agentSessionsSync.maxFileSizeMB": 50
+}
